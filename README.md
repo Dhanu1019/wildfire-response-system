@@ -1,1 +1,0 @@
-# wildfire-response-system
